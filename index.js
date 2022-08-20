@@ -4,7 +4,7 @@ function question1( )
     for(let i=0; i<=10; i++){
         sum=sum+i;
     }
-    document.write("<br>"+ "The Sum of Natural no is "+sum);
+    document.write("<br>"+ "The Sum of first 10 Natural no is "+sum);
 }
 
 function question2( )
